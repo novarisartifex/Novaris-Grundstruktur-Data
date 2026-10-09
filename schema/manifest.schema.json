@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Novaris Grundstruktur update manifest",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "channel",
+    "status",
+    "latest"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "channel": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "pending_assets",
+        "published"
+      ]
+    },
+    "latest": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "required": [
+            "data_version",
+            "source_version",
+            "min_app_version_code",
+            "url",
+            "sha256",
+            "size_bytes"
+          ],
+          "properties": {
+            "data_version": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "source_version": {
+              "type": "string"
+            },
+            "min_app_version_code": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "url": {
+              "type": "string",
+              "pattern": "^https://"
+            },
+            "sha256": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$"
+            },
+            "size_bytes": {
+              "type": "integer",
+              "minimum": 1
+            }
+          }
+        }
+      ]
+    }
+  },
+  "additionalProperties": true
+}
