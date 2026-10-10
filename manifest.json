@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "data_version": 1,
+  "data_version": 2,
   "source_file": "Novaris_Grundstruktur_v1_4_Standalone_Korrigiert.html",
   "source_sha256": "facee611a35ba2a81c3188aab22b76d39e9ecca99ebc3e35945aece57e67bb8a",
   "status": "published",
@@ -103,63 +103,63 @@
     },
     {
       "path": "data/scenes/0001-liria-01-ein-morgen-unter-fremden.json",
-      "sha256": "18f01bdae11983896a7a0f6a08586eb7bd46ee64569ea472c964d2c6fd0c7f20",
-      "size_bytes": 2848,
-      "file_version": "18f01bdae1198389"
+      "sha256": "018b1c5784bdfefb8e3dd00ae0a16591176009b4686ad8dab4d20c92875034db",
+      "size_bytes": 2914,
+      "file_version": "018b1c5784bdfefb"
     },
     {
       "path": "data/scenes/0002-liria-02-die-idee-des-lehrlings.json",
-      "sha256": "6727b66ab17e591b479774842a3bfaf750af8c921b4f136889290789418909d0",
-      "size_bytes": 2223,
-      "file_version": "6727b66ab17e591b"
+      "sha256": "f6816a86da2b9ddcceb73e8d3be3c9f19194829fac8be6052cb8530830532504",
+      "size_bytes": 2287,
+      "file_version": "f6816a86da2b9ddc"
     },
     {
       "path": "data/scenes/0003-liria-03-geschichten-die-niemand-aufschreibt.json",
-      "sha256": "6bf020dc5782b4e5a51dc610a82003f1d2e2699ec4bac08fa37d32f1f4477f49",
-      "size_bytes": 2279,
-      "file_version": "6bf020dc5782b4e5"
+      "sha256": "994777f479dcdf56c30f32f047be18a1b680dea19398c05f6f440aceb0186df6",
+      "size_bytes": 2356,
+      "file_version": "994777f479dcdf56"
     },
     {
       "path": "data/scenes/0004-liria-04-ein-garten-f-r-morgen.json",
-      "sha256": "1e0cf515ffa0b2db7726d7dbddd8563dbf542aa19310b3b09412f8e0a055c829",
-      "size_bytes": 2267,
-      "file_version": "1e0cf515ffa0b2db"
+      "sha256": "4d06343e9ad059839d98bba464843937e638335f1ba59e9c024b37e4556d2bdf",
+      "size_bytes": 2331,
+      "file_version": "4d06343e9ad05983"
     },
     {
       "path": "data/scenes/0005-liria-05-zwei-seiten-einer-wahrheit.json",
-      "sha256": "f4b736c3cfbbe5392fa8195f47cfabd036c63aa6db4bc93c1cd6d337927fb7a0",
-      "size_bytes": 3403,
-      "file_version": "f4b736c3cfbbe539"
+      "sha256": "7fd25887a72d4c65b0eea78e3fe17d28fb7ea9b58a7f529d8fcf52dc9b06aa92",
+      "size_bytes": 3471,
+      "file_version": "7fd25887a72d4c65"
     },
     {
       "path": "data/scenes/0006-liria-06-das-fest-der-kleinen-wunder.json",
-      "sha256": "3125a32474ed69408ae1561834dfedf052eadf6811df579f83544c0ed881e972",
-      "size_bytes": 2622,
-      "file_version": "3125a32474ed6940"
+      "sha256": "b589731485134f908ac9a69d1cc7a7d853553405bc5abeeab25cf972bca0616e",
+      "size_bytes": 2691,
+      "file_version": "b589731485134f90"
     },
     {
       "path": "data/scenes/0007-liria-07-zeichen-des-wandels.json",
-      "sha256": "74e008d5f3ac98eea54a4a973231fe8fbbfc2e1fb8c11d78e6e2bf01f6d9af2f",
-      "size_bytes": 2767,
-      "file_version": "74e008d5f3ac98ee"
+      "sha256": "e09a8ab49630c95ece0cba180758593cc5d5d37be9228f88f7475d5e0e7c93b2",
+      "size_bytes": 2828,
+      "file_version": "e09a8ab49630c95e"
     },
     {
       "path": "data/scenes/0008-liria-08-die-stadt-aus-tausend-stimmen.json",
-      "sha256": "f0d54feaa81d17f34f64c522f7187c4b7b4555cfdc57f912a2b6eaeeb1c9fc0e",
-      "size_bytes": 2972,
-      "file_version": "f0d54feaa81d17f3"
+      "sha256": "3e20de57c34212863fe2653e22e735a645b364ecf210fec005d9e489f4e8064c",
+      "size_bytes": 3043,
+      "file_version": "3e20de57c3421286"
     },
     {
       "path": "data/scenes/0009-liria-09-ein-gespr-ch-mit-aeon.json",
-      "sha256": "f7897abc934290257210e982273f5e987c2572a73c06e21be0567f9d63ac623a",
-      "size_bytes": 3191,
-      "file_version": "f7897abc93429025"
+      "sha256": "8af2c75c372c54e50673c6ca55a8e1b52d81a32261e9fb33973f0f6fb16fdd11",
+      "size_bytes": 3255,
+      "file_version": "8af2c75c372c54e5"
     },
     {
       "path": "data/scenes/0010-liria-10-die-zukunft-geh-rt-ihnen.json",
-      "sha256": "5e433ada1d29d8ee986c72bb2260b585ffc5f8a86cefe963832603332691ccbf",
-      "size_bytes": 3001,
-      "file_version": "5e433ada1d29d8ee"
+      "sha256": "cdd39484861757ef7dcf56409b8ade3d2dc9390ff592e249c4e70d6b745abcc7",
+      "size_bytes": 3068,
+      "file_version": "cdd39484861757ef"
     },
     {
       "path": "data/world/aetheris.json",
@@ -328,6 +328,66 @@
       "sha256": "fa3b3ac558e2b7544016128e8d859a83be0590c24acbcd3e7a6967334d2729c5",
       "size_bytes": 3291489,
       "file_version": "fa3b3ac558e2b754"
+    },
+    {
+      "path": "media/Liria_01_Ein_Morgen_unter_Fremden.png",
+      "sha256": "2fccabee944b55b90e3c9bfc484df821ac505fb1b4fa1e2487a0491c8868502e",
+      "size_bytes": 2808364,
+      "file_version": "2fccabee944b55b9"
+    },
+    {
+      "path": "media/Liria_02_Die_Idee_des_Lehrlings.png",
+      "sha256": "913419bae7754412fc8920ab96c23c0282dd8379a32bc0e76c665be5fcb58409",
+      "size_bytes": 2718063,
+      "file_version": "913419bae7754412"
+    },
+    {
+      "path": "media/Liria_03_Geschichten_die_niemand_aufschreibt.png",
+      "sha256": "795b2fe9e222e6188141490431ff35c3227d2b672123e750266eab8ee92c0316",
+      "size_bytes": 2652027,
+      "file_version": "795b2fe9e222e618"
+    },
+    {
+      "path": "media/Liria_04_Ein_Garten_fuer_morgen.png",
+      "sha256": "ab093bafbe2e4c5b82c469b09d454e9892140a97ecb943cba0565d410ab97129",
+      "size_bytes": 2847019,
+      "file_version": "ab093bafbe2e4c5b"
+    },
+    {
+      "path": "media/Liria_05_Zwei_Seiten_einer_Wahrheit.png",
+      "sha256": "511676950f1355bf160668aaf14712d640bfb13812f2955ed34e2de6e3827a0b",
+      "size_bytes": 2872922,
+      "file_version": "511676950f1355bf"
+    },
+    {
+      "path": "media/Liria_06_Das_Fest_der_kleinen_Wunder.png",
+      "sha256": "8e7f11ab9581a7945b43fa40b1d29b2ab0df0123611b485fede763c4bc7ab4be",
+      "size_bytes": 2880563,
+      "file_version": "8e7f11ab9581a794"
+    },
+    {
+      "path": "media/Liria_07_Zeichen_des_Wandels.png",
+      "sha256": "cbccdeadace3e4b3e1263c7678b79824feb2f882196c0fd883f19502c94d2f42",
+      "size_bytes": 3036352,
+      "file_version": "cbccdeadace3e4b3"
+    },
+    {
+      "path": "media/Liria_08_Die_Stadt_aus_tausend_Stimmen.png",
+      "sha256": "b325767dc1bde803486f7ee0b5019967f15e4c023f52226defc69fe0952b484d",
+      "size_bytes": 2832204,
+      "file_version": "b325767dc1bde803"
+    },
+    {
+      "path": "media/Liria_09_Ein_Gespraech_mit_Aeon.png",
+      "sha256": "65db7b5cfc8d3dcadbddbc1b04fbd403748b7ce1a4305da4f390210764b51f22",
+      "size_bytes": 2920671,
+      "file_version": "65db7b5cfc8d3dca"
+    },
+    {
+      "path": "media/Liria_10_Die_Zukunft_gehoert_ihnen.png",
+      "sha256": "0fe1afc5b726efc7a272320a6d08f9542046509317c6330850306948baa3de2a",
+      "size_bytes": 2780496,
+      "file_version": "0fe1afc5b726efc7"
     }
   ],
   "counts": {
@@ -335,6 +395,6 @@
     "districts": 8,
     "world": 5,
     "scenes": 10,
-    "media": 23
+    "media": 33
   }
 }
