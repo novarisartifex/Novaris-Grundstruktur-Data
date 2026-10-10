@@ -1,0 +1,340 @@
+{
+  "schema_version": 2,
+  "data_version": 1,
+  "source_file": "Novaris_Grundstruktur_v1_4_Standalone_Korrigiert.html",
+  "source_sha256": "facee611a35ba2a81c3188aab22b76d39e9ecca99ebc3e35945aece57e67bb8a",
+  "status": "published",
+  "files": [
+    {
+      "path": "data/districts/arcane-quarter.json",
+      "sha256": "ceac32d9a5125f52ccbd9e4108dec214d8b25dc15bbe882830d16122a87c436c",
+      "size_bytes": 1907,
+      "file_version": "ceac32d9a5125f52"
+    },
+    {
+      "path": "data/districts/bastion-district.json",
+      "sha256": "d2641e38882c0bcbe7df2faa326cf80fa36dd6b85e974c9fe74bce0567b35309",
+      "size_bytes": 1848,
+      "file_version": "d2641e38882c0bcb"
+    },
+    {
+      "path": "data/districts/citadel-district.json",
+      "sha256": "eb5dfe61b51d688f13bf075ec90c3045df37a4610d017b7ce9aebae2b4d9a23d",
+      "size_bytes": 2114,
+      "file_version": "eb5dfe61b51d688f"
+    },
+    {
+      "path": "data/districts/civic-trade-district.json",
+      "sha256": "8c3bcfe3188321ecddd0808051f13f63c88238f78195d62ce2f5d173f664bd62",
+      "size_bytes": 2013,
+      "file_version": "8c3bcfe3188321ec"
+    },
+    {
+      "path": "data/districts/harmony-district.json",
+      "sha256": "8f0eb8e1c6bae08dfe26f23d82dbca33691486a5622595df1821adaa7cf55185",
+      "size_bytes": 2064,
+      "file_version": "8f0eb8e1c6bae08d"
+    },
+    {
+      "path": "data/districts/research-district.json",
+      "sha256": "eec7e9eb4a744f80f9400266bd24be9d0e1a31036d300e4a76ade9cf519100dd",
+      "size_bytes": 2027,
+      "file_version": "eec7e9eb4a744f80"
+    },
+    {
+      "path": "data/districts/sanctum-district.json",
+      "sha256": "80b81e59a25e930c3f810c177f7303798f74a65b76dc881d1d96491430539bd1",
+      "size_bytes": 1941,
+      "file_version": "80b81e59a25e930c"
+    },
+    {
+      "path": "data/districts/umbra-district.json",
+      "sha256": "4ff43d360c644bf5559136a863a558e887d43a9730fb9c39323ca297dca1221c",
+      "size_bytes": 2108,
+      "file_version": "4ff43d360c644bf5"
+    },
+    {
+      "path": "data/people/alchemith-althea.json",
+      "sha256": "7d883fe291d8faee83de42c5446a29e58e4a7ea09382c5ceb963bd1167c58cba",
+      "size_bytes": 2748,
+      "file_version": "7d883fe291d8faee"
+    },
+    {
+      "path": "data/people/arcanis-elara.json",
+      "sha256": "f2113b0ed3910c6ae72b14b9184291db6a8e2268783bf8aa90ea26deddcdef1c",
+      "size_bytes": 2845,
+      "file_version": "f2113b0ed3910c6a"
+    },
+    {
+      "path": "data/people/artifex-aeon.json",
+      "sha256": "21e4cfcba821860ed3c01a1fb6248661abc055f9e194a03daffc033f81e8f09c",
+      "size_bytes": 2765,
+      "file_version": "21e4cfcba821860e"
+    },
+    {
+      "path": "data/people/artifex-liria.json",
+      "sha256": "9b2ac5f2eeaa674fd23f1e8781f0d34a2113b059a785c0118879b79a2cda64e9",
+      "size_bytes": 2818,
+      "file_version": "9b2ac5f2eeaa674f"
+    },
+    {
+      "path": "data/people/delyra-melody.json",
+      "sha256": "530e2a914d8a10139d61bef3bf80d1073c1c5ed3f2faea75a0b65cf5d11f34d1",
+      "size_bytes": 2762,
+      "file_version": "530e2a914d8a1013"
+    },
+    {
+      "path": "data/people/lumaris-celeste.json",
+      "sha256": "f10654ac5b2c9da3b20bdfff73d1fea47ae6f3d94450d20f2abceab950712fcf",
+      "size_bytes": 2654,
+      "file_version": "f10654ac5b2c9da3"
+    },
+    {
+      "path": "data/people/sigmaris-valeria.json",
+      "sha256": "525c337fd23a504aa80cefa47b6b6c27a745e8985aaee76e44ba323e8cca7311",
+      "size_bytes": 2766,
+      "file_version": "525c337fd23a504a"
+    },
+    {
+      "path": "data/people/umbrassin-nyssa.json",
+      "sha256": "48f3892b3c55f50e6a25080b79c49160ca461f37a309781f9bd214d16c87abfd",
+      "size_bytes": 2729,
+      "file_version": "48f3892b3c55f50e"
+    },
+    {
+      "path": "data/scenes/0001-liria-01-ein-morgen-unter-fremden.json",
+      "sha256": "18f01bdae11983896a7a0f6a08586eb7bd46ee64569ea472c964d2c6fd0c7f20",
+      "size_bytes": 2848,
+      "file_version": "18f01bdae1198389"
+    },
+    {
+      "path": "data/scenes/0002-liria-02-die-idee-des-lehrlings.json",
+      "sha256": "6727b66ab17e591b479774842a3bfaf750af8c921b4f136889290789418909d0",
+      "size_bytes": 2223,
+      "file_version": "6727b66ab17e591b"
+    },
+    {
+      "path": "data/scenes/0003-liria-03-geschichten-die-niemand-aufschreibt.json",
+      "sha256": "6bf020dc5782b4e5a51dc610a82003f1d2e2699ec4bac08fa37d32f1f4477f49",
+      "size_bytes": 2279,
+      "file_version": "6bf020dc5782b4e5"
+    },
+    {
+      "path": "data/scenes/0004-liria-04-ein-garten-f-r-morgen.json",
+      "sha256": "1e0cf515ffa0b2db7726d7dbddd8563dbf542aa19310b3b09412f8e0a055c829",
+      "size_bytes": 2267,
+      "file_version": "1e0cf515ffa0b2db"
+    },
+    {
+      "path": "data/scenes/0005-liria-05-zwei-seiten-einer-wahrheit.json",
+      "sha256": "f4b736c3cfbbe5392fa8195f47cfabd036c63aa6db4bc93c1cd6d337927fb7a0",
+      "size_bytes": 3403,
+      "file_version": "f4b736c3cfbbe539"
+    },
+    {
+      "path": "data/scenes/0006-liria-06-das-fest-der-kleinen-wunder.json",
+      "sha256": "3125a32474ed69408ae1561834dfedf052eadf6811df579f83544c0ed881e972",
+      "size_bytes": 2622,
+      "file_version": "3125a32474ed6940"
+    },
+    {
+      "path": "data/scenes/0007-liria-07-zeichen-des-wandels.json",
+      "sha256": "74e008d5f3ac98eea54a4a973231fe8fbbfc2e1fb8c11d78e6e2bf01f6d9af2f",
+      "size_bytes": 2767,
+      "file_version": "74e008d5f3ac98ee"
+    },
+    {
+      "path": "data/scenes/0008-liria-08-die-stadt-aus-tausend-stimmen.json",
+      "sha256": "f0d54feaa81d17f34f64c522f7187c4b7b4555cfdc57f912a2b6eaeeb1c9fc0e",
+      "size_bytes": 2972,
+      "file_version": "f0d54feaa81d17f3"
+    },
+    {
+      "path": "data/scenes/0009-liria-09-ein-gespr-ch-mit-aeon.json",
+      "sha256": "f7897abc934290257210e982273f5e987c2572a73c06e21be0567f9d63ac623a",
+      "size_bytes": 3191,
+      "file_version": "f7897abc93429025"
+    },
+    {
+      "path": "data/scenes/0010-liria-10-die-zukunft-geh-rt-ihnen.json",
+      "sha256": "5e433ada1d29d8ee986c72bb2260b585ffc5f8a86cefe963832603332691ccbf",
+      "size_bytes": 3001,
+      "file_version": "5e433ada1d29d8ee"
+    },
+    {
+      "path": "data/world/aetheris.json",
+      "sha256": "48f13327b32d7f46d7cc6ce45a73d269e8c0673aed7720dafea8cf312d191f3e",
+      "size_bytes": 693,
+      "file_version": "48f13327b32d7f46"
+    },
+    {
+      "path": "data/world/asterion.json",
+      "sha256": "529ca90400609a0ae8ed1d02da069c1b4ec75821e8a4278aa92dc1ed4014433c",
+      "size_bytes": 592,
+      "file_version": "529ca90400609a0a"
+    },
+    {
+      "path": "data/world/novaris.json",
+      "sha256": "5219e4e7f2d948c401f47a4f29eee04b5cdd130782f23f93b4bbcb8c51e98502",
+      "size_bytes": 572,
+      "file_version": "5219e4e7f2d948c4"
+    },
+    {
+      "path": "data/world/philosophie.json",
+      "sha256": "f558ed12a036c311e4fb7b75fe44db2e6775298e7445538f95473e6ffb6af127",
+      "size_bytes": 787,
+      "file_version": "f558ed12a036c311"
+    },
+    {
+      "path": "data/world/wappen-stadtprinzip.json",
+      "sha256": "e3c20bc708c8bc0dcc92797dc5e18bb64f036fb66e4fb2015096c592b4037216",
+      "size_bytes": 812,
+      "file_version": "e3c20bc708c8bc0d"
+    },
+    {
+      "path": "media/0e1faf3ba5d74d6490d94575933bda542969c75f88967cd2254b69200bb83ec6.png",
+      "sha256": "0e1faf3ba5d74d6490d94575933bda542969c75f88967cd2254b69200bb83ec6",
+      "size_bytes": 3496570,
+      "file_version": "0e1faf3ba5d74d64"
+    },
+    {
+      "path": "media/1352f4a8bfe625d2759b161943a14f0a0d481690811e57aea1cec5bb09ace31a.png",
+      "sha256": "1352f4a8bfe625d2759b161943a14f0a0d481690811e57aea1cec5bb09ace31a",
+      "size_bytes": 3796425,
+      "file_version": "1352f4a8bfe625d2"
+    },
+    {
+      "path": "media/1d97be0cc3a4d851d5a4d9c426156486e4b7782f044c339f4c578133e82261c2.png",
+      "sha256": "1d97be0cc3a4d851d5a4d9c426156486e4b7782f044c339f4c578133e82261c2",
+      "size_bytes": 4874598,
+      "file_version": "1d97be0cc3a4d851"
+    },
+    {
+      "path": "media/3af9690a53721891da6a5da1eb5ceba9eb2da483edea9f9dce727c49a20763d2.png",
+      "sha256": "3af9690a53721891da6a5da1eb5ceba9eb2da483edea9f9dce727c49a20763d2",
+      "size_bytes": 3228974,
+      "file_version": "3af9690a53721891"
+    },
+    {
+      "path": "media/43ef2a2ee7100b7fbd71db8a3e56c3096d92397a9127d83d81b43809bca3796e.png",
+      "sha256": "43ef2a2ee7100b7fbd71db8a3e56c3096d92397a9127d83d81b43809bca3796e",
+      "size_bytes": 3734684,
+      "file_version": "43ef2a2ee7100b7f"
+    },
+    {
+      "path": "media/4ccb679bfda27bae9fd929b694f4f71ce5832ad3b98ac776a7e436d802c05cf1.png",
+      "sha256": "4ccb679bfda27bae9fd929b694f4f71ce5832ad3b98ac776a7e436d802c05cf1",
+      "size_bytes": 2827796,
+      "file_version": "4ccb679bfda27bae"
+    },
+    {
+      "path": "media/53319ed5b2cdae9030dbd2d21e051e22c43b94850b7493d1be206473f4edf03e.png",
+      "sha256": "53319ed5b2cdae9030dbd2d21e051e22c43b94850b7493d1be206473f4edf03e",
+      "size_bytes": 3424797,
+      "file_version": "53319ed5b2cdae90"
+    },
+    {
+      "path": "media/55ab93ec69a725db500686dc5a277644c231c1b7abef3ceaa230c8716af5fbf5.png",
+      "sha256": "55ab93ec69a725db500686dc5a277644c231c1b7abef3ceaa230c8716af5fbf5",
+      "size_bytes": 3562679,
+      "file_version": "55ab93ec69a725db"
+    },
+    {
+      "path": "media/5b2f23f32bfae09cb5cc8e740241ea7fc7f646aee467bdd298322076a6226404.png",
+      "sha256": "5b2f23f32bfae09cb5cc8e740241ea7fc7f646aee467bdd298322076a6226404",
+      "size_bytes": 3261309,
+      "file_version": "5b2f23f32bfae09c"
+    },
+    {
+      "path": "media/60916508472186da43aea1e5274afe0ae64af124ec3c03fff4046b93ef519fc7.png",
+      "sha256": "60916508472186da43aea1e5274afe0ae64af124ec3c03fff4046b93ef519fc7",
+      "size_bytes": 4141644,
+      "file_version": "60916508472186da"
+    },
+    {
+      "path": "media/6829658779a7b5341fbaf46f124d1e255e194de4131962652be724ea7f74c7a4.png",
+      "sha256": "6829658779a7b5341fbaf46f124d1e255e194de4131962652be724ea7f74c7a4",
+      "size_bytes": 3198081,
+      "file_version": "6829658779a7b534"
+    },
+    {
+      "path": "media/8dc990bf4da0370db1a5ef4ca738b6d6d049169197078645d52856fe629bacf8.png",
+      "sha256": "8dc990bf4da0370db1a5ef4ca738b6d6d049169197078645d52856fe629bacf8",
+      "size_bytes": 3632984,
+      "file_version": "8dc990bf4da0370d"
+    },
+    {
+      "path": "media/96435c767674c111fcc235c885b27f575a661ce3f38b3956a45678950595da02.png",
+      "sha256": "96435c767674c111fcc235c885b27f575a661ce3f38b3956a45678950595da02",
+      "size_bytes": 3916470,
+      "file_version": "96435c767674c111"
+    },
+    {
+      "path": "media/982c3376dd31861e124bff2e4cbff68240bd4e1833e9c252f9ae3e8a556f8695.png",
+      "sha256": "982c3376dd31861e124bff2e4cbff68240bd4e1833e9c252f9ae3e8a556f8695",
+      "size_bytes": 3851552,
+      "file_version": "982c3376dd31861e"
+    },
+    {
+      "path": "media/98c64e7446b4da7f550f4b5193d29ca49f95ee37de593e7c620f41aeb72bebae.png",
+      "sha256": "98c64e7446b4da7f550f4b5193d29ca49f95ee37de593e7c620f41aeb72bebae",
+      "size_bytes": 3488282,
+      "file_version": "98c64e7446b4da7f"
+    },
+    {
+      "path": "media/994a81b81a01c4d72f99d7d74ee024c135e7ae9e7fd46aeb873eafcac2f774bb.png",
+      "sha256": "994a81b81a01c4d72f99d7d74ee024c135e7ae9e7fd46aeb873eafcac2f774bb",
+      "size_bytes": 3188233,
+      "file_version": "994a81b81a01c4d7"
+    },
+    {
+      "path": "media/ac8f73294cd3878f19da61014cc128d2910cd5d3dba606ac19e9d5f21ecc7250.png",
+      "sha256": "ac8f73294cd3878f19da61014cc128d2910cd5d3dba606ac19e9d5f21ecc7250",
+      "size_bytes": 3796455,
+      "file_version": "ac8f73294cd3878f"
+    },
+    {
+      "path": "media/e363c3c58546921d29f2f0c15053a057e4ff69b5dc5870322dc6aa066a668ea8.png",
+      "sha256": "e363c3c58546921d29f2f0c15053a057e4ff69b5dc5870322dc6aa066a668ea8",
+      "size_bytes": 3368969,
+      "file_version": "e363c3c58546921d"
+    },
+    {
+      "path": "media/ec5fe0562d77b64965c1bccc5b274ac5b5071912cc41327ee59230b004c5c0f7.png",
+      "sha256": "ec5fe0562d77b64965c1bccc5b274ac5b5071912cc41327ee59230b004c5c0f7",
+      "size_bytes": 3263044,
+      "file_version": "ec5fe0562d77b649"
+    },
+    {
+      "path": "media/ed2ba610be0c4f6e4c4b71f29e1e0e8609fe7bb397351a0a90aed29ec1c0c3dc.png",
+      "sha256": "ed2ba610be0c4f6e4c4b71f29e1e0e8609fe7bb397351a0a90aed29ec1c0c3dc",
+      "size_bytes": 3241978,
+      "file_version": "ed2ba610be0c4f6e"
+    },
+    {
+      "path": "media/f4646dc9db9fc4e2a595cd82f8a18fcdb684a207800c3aa6ba0d6992f4259bc2.png",
+      "sha256": "f4646dc9db9fc4e2a595cd82f8a18fcdb684a207800c3aa6ba0d6992f4259bc2",
+      "size_bytes": 3120138,
+      "file_version": "f4646dc9db9fc4e2"
+    },
+    {
+      "path": "media/f4d3d07510c6c6688de0f588449581f192c4cf21b6653af44c236ff21f957773.png",
+      "sha256": "f4d3d07510c6c6688de0f588449581f192c4cf21b6653af44c236ff21f957773",
+      "size_bytes": 3959395,
+      "file_version": "f4d3d07510c6c668"
+    },
+    {
+      "path": "media/fa3b3ac558e2b7544016128e8d859a83be0590c24acbcd3e7a6967334d2729c5.png",
+      "sha256": "fa3b3ac558e2b7544016128e8d859a83be0590c24acbcd3e7a6967334d2729c5",
+      "size_bytes": 3291489,
+      "file_version": "fa3b3ac558e2b754"
+    }
+  ],
+  "counts": {
+    "people": 8,
+    "districts": 8,
+    "world": 5,
+    "scenes": 10,
+    "media": 23
+  }
+}
