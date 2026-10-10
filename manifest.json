@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "data_version": 2,
+  "data_version": 3,
   "source_file": "Novaris_Grundstruktur_v1_4_Standalone_Korrigiert.html",
   "source_sha256": "facee611a35ba2a81c3188aab22b76d39e9ecca99ebc3e35945aece57e67bb8a",
   "status": "published",
@@ -160,6 +160,66 @@
       "sha256": "cdd39484861757ef7dcf56409b8ade3d2dc9390ff592e249c4e70d6b745abcc7",
       "size_bytes": 3068,
       "file_version": "cdd39484861757ef"
+    },
+    {
+      "path": "data/translations/en/scenes/0001-liria-01-ein-morgen-unter-fremden.json",
+      "sha256": "2771b0bbb8868a8011efa6c419ce5bab06925ba97b5dc5a3db43fde81f8603a6",
+      "size_bytes": 1631,
+      "file_version": "2771b0bbb8868a80"
+    },
+    {
+      "path": "data/translations/en/scenes/0002-liria-02-die-idee-des-lehrlings.json",
+      "sha256": "a8747069c52f4d2bdac76de8786d68ac983ca05113a6c9146f2f33d6731d1e1f",
+      "size_bytes": 1577,
+      "file_version": "a8747069c52f4d2b"
+    },
+    {
+      "path": "data/translations/en/scenes/0003-liria-03-geschichten-die-niemand-aufschreibt.json",
+      "sha256": "399a70f2e71635c53e08ddac531770abc0d61b5e802b4dac94be26830bf983bf",
+      "size_bytes": 1662,
+      "file_version": "399a70f2e71635c5"
+    },
+    {
+      "path": "data/translations/en/scenes/0004-liria-04-ein-garten-f-r-morgen.json",
+      "sha256": "43494cf2ef74bb8122dc565e28f15dc34097bb1a095bc324541b475cce1425cb",
+      "size_bytes": 1673,
+      "file_version": "43494cf2ef74bb81"
+    },
+    {
+      "path": "data/translations/en/scenes/0005-liria-05-zwei-seiten-einer-wahrheit.json",
+      "sha256": "16ea753ff7e41288a1017429b55ee7bd1963298e2042e259e140651f64f1e3db",
+      "size_bytes": 2101,
+      "file_version": "16ea753ff7e41288"
+    },
+    {
+      "path": "data/translations/en/scenes/0006-liria-06-das-fest-der-kleinen-wunder.json",
+      "sha256": "13d36eac99fa0b9705d19ba9b268737873b5bfb293171d16297cb88dc2c9d84a",
+      "size_bytes": 1795,
+      "file_version": "13d36eac99fa0b97"
+    },
+    {
+      "path": "data/translations/en/scenes/0007-liria-07-zeichen-des-wandels.json",
+      "sha256": "0496f856086e13474df197b5a1e6d449cb9fc9f409e2d94c456c3151571b3199",
+      "size_bytes": 1822,
+      "file_version": "0496f856086e1347"
+    },
+    {
+      "path": "data/translations/en/scenes/0008-liria-08-die-stadt-aus-tausend-stimmen.json",
+      "sha256": "776e44133b4035e766da78ab823d5cd8cefaf9b59c1e3d5f0d5e8d3879527dba",
+      "size_bytes": 1940,
+      "file_version": "776e44133b4035e7"
+    },
+    {
+      "path": "data/translations/en/scenes/0009-liria-09-ein-gespr-ch-mit-aeon.json",
+      "sha256": "42b34603f8db49cca37abe3519c02a3f1f0cb84dfd6c9eef231bc310ff71cff9",
+      "size_bytes": 2105,
+      "file_version": "42b34603f8db49cc"
+    },
+    {
+      "path": "data/translations/en/scenes/0010-liria-10-die-zukunft-geh-rt-ihnen.json",
+      "sha256": "e28637de557affb4f55d5431cb79f881d1985845f509774e2210861cfbdd9c9e",
+      "size_bytes": 1957,
+      "file_version": "e28637de557affb4"
     },
     {
       "path": "data/world/aetheris.json",
