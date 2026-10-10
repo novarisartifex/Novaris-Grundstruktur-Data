@@ -1,0 +1,35 @@
+name: Import v1.4 export ZIP
+on:
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: Release tag containing Novaris_v1_4_Datenexport.zip
+        required: true
+        default: data-v1.4-import
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: true
+      - name: Download uploaded ZIP from GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ inputs.release_tag }}
+        run: gh release download "$TAG" --pattern 'Novaris_v1_4_Datenexport.zip' --dir /tmp
+      - name: Validate and safely extract
+        run: python3 tools/import_export_zip.py /tmp/Novaris_v1_4_Datenexport.zip
+      - name: Publish complete verified dataset
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data media manifest.json
+          git diff --cached --quiet && exit 0
+          git commit -m 'Publish verified Novaris v1.4 dataset'
+          git push origin HEAD:main
+      - name: Validate committed dataset
+        run: python3 tools/validate_manifest.py
